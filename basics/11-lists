@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l cd pwd
+ls -al cd pwd
